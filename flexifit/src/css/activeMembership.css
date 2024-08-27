@@ -1,0 +1,27 @@
+/* .active-membership-container {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.membership-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.membership-table th, .membership-table td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+}
+
+.membership-table th {
+    background-color: #343a40;
+    color: #fff;
+}
+
+.membership-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+} */
